@@ -38,7 +38,7 @@ public:
             ans=temp+" "+ans;
             else
             ans=temp;
-            temp="";
+            
         }
            return ans;
     
